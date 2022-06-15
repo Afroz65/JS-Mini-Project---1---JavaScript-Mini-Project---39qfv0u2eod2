@@ -30,7 +30,7 @@ Player should be able to:
 
 ### Links
 
-- Live Site URL: [Preview Site](https://rohits673.github.io/Shot-the-circle-js-game)
+- Live Site URL: [Preview Site](https://shot-the-circle-game.netlify.app/)
 
 ### Built with
 
