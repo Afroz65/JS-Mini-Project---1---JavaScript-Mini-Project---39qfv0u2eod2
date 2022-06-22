@@ -15,7 +15,7 @@ Player should be able to:
 - Few radio buttons are selected randomly by the computer.
 - Click on the selected radio buttons.
 - Selection of radio buttons should be changed after every second.
-- Add 1 point per correct hit & minus 1 point per miss.
+- Add 1 point per correct hit & deducts 1 point per miss.
 - At the end of the game, convert points into percentage. 
 - When time is over it should show messages according to the given criteria: 
 - >= 80% => Congratulations
